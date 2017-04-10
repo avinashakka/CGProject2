@@ -1,6 +1,5 @@
 
-Avinash Akka
-USC ID: 3874-5774-01
+Avinash 
 
 CSCI 420: Assignment 2: Roller Coaster Simulation
 
